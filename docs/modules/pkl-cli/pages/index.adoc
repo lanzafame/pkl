@@ -738,7 +738,7 @@ pkl> species
 pkl> species = "Barn"
 pkl> species
 "Barn"
-pkl> species += " Owl"
+pkl> species + " Owl"
 pkl> species
 "Barn owl"
 ----
